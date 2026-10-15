@@ -1,1 +1,2 @@
-# BrightLearn-Exercise-3-SQL-CASE-Statement
+# BrightLearn-Exercise-3-SQL-Foundations
+SQL CASE Statement
